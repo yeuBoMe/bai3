@@ -2,4 +2,4 @@
 ### MSV: 22810310256
 ## Kết quả:
 
-![Hình ảnh]('./assets/bai3.jpg')
+![Hình ảnh]('bai3.jpg')
