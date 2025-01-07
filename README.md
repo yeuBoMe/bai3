@@ -2,4 +2,4 @@
 ### MSV: 22810310256
 ## Kết quả:
 
-![Hình ảnh](KetQua.jpg)
+![Hình ảnh]('./assets/bai3.jpg')
